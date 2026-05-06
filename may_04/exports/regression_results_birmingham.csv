@@ -1,0 +1,3 @@
+model,interaction_coef,p_value,r_squared,interpretation
+DiD in levels,-134.45847272727264,5.595132484157446e-14,0.9621557965800958,"Orleans Parish lost about -134.5 thousand more residents after Katrina than Jefferson County, AL."
+DiD in logs,-0.3469584092885748,9.170354727636113e-09,0.905442653160973,The post-Katrina population level in Orleans Parish was about -29.3% lower relative to the control group.
